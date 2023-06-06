@@ -10,14 +10,6 @@ This is a ReactJS application that allows users to explore TV shows using the TV
 
 <img src="https://raw.githubusercontent.com/iamhk12/TaskQuadB/main/screenshots/res.png" width="500px">
 
-## Features
-
-- Fetches TV show data from the [TV Maze API](https://api.tvmaze.com/search/shows?q=all).
-- Displays a list of TV show names and details on the home screen.
-- Clicking on a show redirects the user to a screen displaying the show's summary.
-- Provides a "Book Ticket" button on the summary screen to book a movie ticket for the selected show.
-- The ticket booking form pre-populates with the movie name and relevant details.
-- User details are stored using local/session storage, ensuring no data loss on page reload.
 
 ## Installation
 
