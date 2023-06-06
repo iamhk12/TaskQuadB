@@ -4,11 +4,11 @@ This is a ReactJS application that allows users to explore TV shows using the TV
 
 ## Screenshots
 
-![Screenshot 1](https://raw.githubusercontent.com/iamhk12/TaskQuadB/main/screenshots/1.png)
+<img src="https://raw.githubusercontent.com/iamhk12/TaskQuadB/main/screenshots/1.png" width="300px">
 
-![Screenshot 2](https://raw.githubusercontent.com/iamhk12/TaskQuadB/main/screenshots/2.png)
+<img src="https://raw.githubusercontent.com/iamhk12/TaskQuadB/main/screenshots/2.png" width="300px">
 
-![Screenshot 3](https://raw.githubusercontent.com/iamhk12/TaskQuadB/main/screenshots/res.png)
+<img src="https://raw.githubusercontent.com/iamhk12/TaskQuadB/main/screenshots/res.png" width="300px">
 
 ## Features
 
@@ -36,5 +36,3 @@ To run this application locally, follow these steps:
 - CSS
 
 Thank you for considering my application!
-
-
